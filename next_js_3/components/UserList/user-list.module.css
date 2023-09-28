@@ -1,0 +1,17 @@
+.list {
+  width: 90%;
+  max-width: 40rem;
+  margin: 5rem auto;
+
+  .main {
+    border: 1.5px solid;
+    background-color: salmon;
+    border-radius: 10px;
+    margin-top: 19px;
+    cursor: pointer;
+  }
+
+  .child {
+    margin-left: 15px;
+  }
+}
